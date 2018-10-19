@@ -1,7 +1,7 @@
 # comparativeProgLang
 Academic : Comparative Programming Languages
 
-Course : CMPT 383 by Greg Baker
+Course : CMPT 383 by Greg Baker, Summer 2018
 
 Simon Fraser University, Burnaby
 
